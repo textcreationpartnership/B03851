@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dr. Jacque's vindication against Mr. Kirkwood's defamation in his plea before the kirk, and civil judicature of Scotland.</title>
+            <author>Jacque, W. Dr., fl. 1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03851</idno>
+            <idno type="STC">Wing J120A</idno>
+            <idno type="STC">ESTC R178828</idno>
+            <idno type="EEBO-CITATION">51784570</idno>
+            <idno type="OCLC">ocm 51784570</idno>
+            <idno type="VID">174979</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03851)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174979)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2708:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dr. Jacque's vindication against Mr. Kirkwood's defamation in his plea before the kirk, and civil judicature of Scotland.</title>
+                  <author>Jacque, W. Dr., fl. 1698.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kirkwood, James, fl. 1675-1711. --  Mr Kirkwood's plea before the Kirk and civil judicatures of Scotland.</term>
+               <term>Church of Scotland --  17th century --  Early works to 1800.</term>
+               <term>Libel and slander --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174979:1"/>
+            <pb facs="tcp:174979:1" rendition="simple:additions"/>
+            <p>Dr. <hi>Jaque</hi>'s VINDICATION Againſt Mr. <hi>Kirkwood</hi>'s DEFAMATION In his Plea before the Kirk, and Civil Judicature of <hi>SCOTLAND.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb n="2" facs="tcp:174979:2"/>
+            <head>Dr. <hi>Jaque</hi>'s <hi>VINDICATION,</hi> AGAINST Mr. <hi>Kirkwood</hi>'s <hi>DEFAMATION</hi> In his Plea before the Kirk, and Civil Judicature OF SCOTLAND.</head>
+            <p>NOT the Vanity of appearing in Print, but the neceſſity of ſelf <hi>Vindication,</hi> hath obliged Dr. <hi>Jaque,</hi> thus publickly to take notice of a late Scurrilous Pamphlet <hi>Entuuled</hi> Mr. <hi>Kuk<g ref="char:EOLhyphen"/>woods Plea before the Kirk and Civil Judicatorie of Scotland.</hi> The like of which (all things being conſidered) was never Written in any Language, by any Perſwaſion, being both <hi>Prophane, Blaſphemous,</hi> and <hi>Obſcene:</hi> He is in the whole Proces of his book inſtigated, not only by an Unchriſtian, but an Ungenerous Inhumane and Sordid Spirit, which doth ſo highly ferment his Gall, that he is at length, forc't to ſpew it out, tho' to the defiling the Perſonages, and Charecters, of the moſt Reve<g ref="char:EOLhyphen"/>rend, Pious, Learned and Judicious, Members, and Judicatures of this Renowned and Reformed Church, which will notwithſtanding all his falſe Suggeſtions, be living Witneſſes againſt his malicious Calumnies; And ſo very inconſiſtent is the Crazy-Headed Pamphleteer, with himſelf, that even what he ſo Satyrically inveighs againſt in others. <hi>viz.</hi> An en<g ref="char:EOLhyphen"/>deavour to ruin his Reputation and Fame, he makes his own Practice, and that moſt Cowardly and Invidiouſly, ſtabbing as it were under the fifth Rib, without giving a fair Challenge for ſelf Defence; this was often allow'd him, as he evidenceth by the many Inſtruments he took in the preſence of the ſeveral Judicatures, before whom his cauſe was beard, and Witneſſes Examined on the matter; He had fair play according to the Diſcipline of the Church, but allowes not the leaſt Umbrage of the like
+<pb n="3" facs="tcp:174979:2"/>to another, but takes falſe and malicious report, as a ſufficient evidence and ground to vent his Reproaches, and endeavours himſelf to aggravate the matter, with his Pedantick Rhetorick, and even racks his ſhallow Wits, to find words ſufficiently Emphatical, Hyperbolically to expreſs the Hainouſneſs, of the Imaginary Crime conceiv'd in the <hi>Vacuum</hi> of his Cholerick Braine: This he doth to a ſtranger of another Nation, not in the leaſt concern'd in his affair, without any provocation from the Per<g ref="char:EOLhyphen"/>ſon he defames, or candid Apology for Traducing his Name, and that in the moſt Publick and Celebrated manner, publiſhing it in Print, and thereby expoſing the Reputation of a Gentelman, wholly unknown to him, to the Obloquy of the Cenſorious World, and to all the diſadvantages that he charges the Reverend Judicatures with, as to himſelf.</p>
+            <p>Whatever Mr. <hi>Kirkwood</hi> may think of the matter, he may aſſure him<g ref="char:EOLhyphen"/>ſelf the Gentleman he abuſeth, is not of ſo Phlegmatick a Conſtitution, as to let ſuch an Injury paſs unreſented, and muſt therefore expect to be cal<g ref="char:EOLhyphen"/>led to a legal account for his procedure in that affair.</p>
+            <p>In the Second Act of his Comme-Tragedy, (for ſuch on a ſtrict per<g ref="char:EOLhyphen"/>uſal his Pamphlet will be found, and even ſuch as will be his't off the ſtage, of Truth, Modeſty and Honour) he brings in Dr. <hi>Jaque,</hi> Son to Mr. <hi>William Jaque</hi> and Mrs. <hi>Stones</hi> (as he calls her) for a part in that ſcene, he introduceth them with a lye, aſſuring the Auditory, that he will paſs by that famous buſineſs, that fell out at Mr. <hi>Jaques</hi> houſe at <hi>Bsggar,</hi> but at the ſame time hurrys them off the ſtage with a huy-an-cry, as guilty of the moſt notorious Crimes, endeavouring at the ſame blow, to ruine the Reputa<g ref="char:EOLhyphen"/>tion of Mr. <hi>Jaque,</hi> the Dr. and Mrs. <hi>Stone.</hi>
+            </p>
+            <p>That the world may therefore be undeceived and Mr. <hi>Kirkwoods</hi> Malice, more plainly detected, Dr. <hi>Jaque,</hi> thinks it highly requiſit to publiſh, the following plain and Faithfull account, of the whole matter, relating to Mrs. <hi>Stone,</hi> both for his own <hi>Vindication,</hi> and likewiſe for the Information and Satisfaction, of ſuch who are as yet unacquainted with the Truth of the matter.</p>
+            <p>Know then that Mrs. <hi>Stone</hi> ſpoken of, in Mr. <hi>Kirkwoods 2d part page</hi> 38 is the only Daughter, of Mr. <hi>Arthur Stone,</hi> an Emment Merchant in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and a Member of the Common Council of that City, a Man of Good Report amongſt all he deals with, of great Piety and Candour, and an Oppulent Man as to his Wordly condition: His Wife likewiſe a Wo<g ref="char:EOLhyphen"/>man of great Piety and Integrity, was the neareſt Relation (except a Mother) to Dr. <hi>Jaques</hi> Wife, and therefore upon all occaſions ſhewed great Reſpect and Civility to her Kinſwoman, and the Dr. Mr. <hi>Stones</hi> Daughter, and Dr. <hi>Jaques</hi> Wife being bred up together, from their Infan<g ref="char:EOLhyphen"/>cy,
+<pb n="4" facs="tcp:174979:3"/>contracted a very Endeared Friendſhip and Love, ſuch as continued, <hi>Ad extremum Mortis,</hi> without the leaſt Violation, their Endearments ſo mutual at all times, that they each did partake of the others Proſperity or Adverſity. The laſt time Dr. <hi>Jaques</hi> Wife and he were at <hi>London,</hi> before they came to <hi>Biggar,</hi> where ſhe died, they Lodg'd at Mr. <hi>Stones</hi> houſe, and then it was that Mr. <hi>Stones</hi> Daughter diſcovered to the Drs. Wiſe and him, that ſhe was Married to one <hi>Daniel Vanderkiſiee</hi> a <hi>Dutchman,</hi> and intimated her reſolution of going a way along with him, unknown to her Father and Mother; which to prevent, the Dr. aſſured her he would diſcover it to her Parents; ſhe very much reſented the Drs. freedom; however her Fathers friendſhip, and her wellfair, being principally aimed at by him, he did divulge it firſt to her Mother, who took a conveni<g ref="char:EOLhyphen"/>ent time, and then diſcloſed it to her Husband; they were both highly inc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſed at their Daughters folly, and would not for ſome time ſee her, but confined her to her Chamber, until they ſhould enquire into the Con<g ref="char:EOLhyphen"/>dition, and Circumſtances of the Man, with whoſe perſon they were for<g ref="char:EOLhyphen"/>merly acquainted, this they ſpeedily did and found that he Cohabited with an other Woman, who was reputed his Wife, and by whom he had ſeveral Children then living; Mr. <hi>Stone</hi> and his Wife, from hence concluded that the Covetous Mans deſign was only to get Money from them and to get what he could from their Daughter, ſome things of value (having been already conveyed to him by her) And therefore they re<g ref="char:EOLhyphen"/>ſolv'd with the advice of Friends, not to ſuffer their Daughter to go to him, if poſſibly, they could prevent it, being well aſſured that it would be their Childs ruin, if they ſuffered her to go with him, Therefore they en<g ref="char:EOLhyphen"/>treated Dr. <hi>Jaques</hi> Wife to uſe her endeavour to prevail with her Kinſ<g ref="char:EOLhyphen"/>woman to leave <hi>London,</hi> and to go with her and the Dr. to their houſe in <hi>Yorkſhire,</hi> which being agreed to at length after much difficulty, Mr. <hi>Stones</hi> Daughter conſented, and did go down into <hi>Yorkſhire</hi> with Dr. <hi>Jaques</hi> Wife Mr, <hi>Stone</hi> allowing <hi>Twenty pound starling per Annum,</hi> for his Daughters Board. It was likewiſe Mr. <hi>Stone</hi> and his Wifes deſire, that their Daugh<g ref="char:EOLhyphen"/>ters unfortunate Marriage ſhould be concealed, and that ſhe ſhould ſtill be called by her Maiden-Name, reſolving to uſe their utmoſt effects to get the Marriage diſolv'd by a Divorce; Dr. <hi>Jaque</hi> and his Wife not forſee<g ref="char:EOLhyphen"/>ing the miſcheifs that enſued upon it, conſented to their requeſt. Not<g ref="char:EOLhyphen"/>withſtanding the watchfulneſs of the Drs. Wife and his, over their Kinſ<g ref="char:EOLhyphen"/>woman, yet did ſhe maintain ſecret Correſpondence with her Husband, and ſeveral private mettings they had (as hath been ſince diſcovered) the Dr. and his Wife having promiſ'd to Viſit their Relations at <hi>Biggar,</hi> took Journey, for <hi>Scotland,</hi> and at the deſire of Mr. <hi>Stone</hi> and his Wife, took
+<pb n="5" facs="tcp:174979:3"/>their Daughter along, both to ſee Mr. <hi>Jaque</hi> and his Wife (with whom ſhe had formerly been acquainted at <hi>London;</hi> and alſo to give her a diver<g ref="char:EOLhyphen"/>ſion, by Travelling, being at that time ſome what indiſpoſed thro' Me<g ref="char:EOLhyphen"/>lancholy under the apprehenſions of her unfortunate Wedlock. Mr. <hi>Stones</hi> Daughter, being at <hi>Biggar</hi> continued her Maiden-Name, according to the deſire of her Father and Mother, Dr. <hi>Jaque</hi> never having been taxt by any as to her Marriage, till after ſhe brought forth her Child.</p>
+            <p>It's confeſt by Dr. <hi>Jaque,</hi> that he was extreamly faulty and inconſiderat, and that only his promiſe to Mr. <hi>Stone</hi> and his Wife at <hi>London,</hi> led him into ſo Egregious an Act of Imprudence and ſolly, as not to make known her Circumſtances to Mr. <hi>Jaque</hi> and his Wife before her delivery; He is ſo far from Extenuating his Crime, that he is willing to aggravate it againſt himſelf, and as a puniſhment hath ever ſince ſuffered the diſplea<g ref="char:EOLhyphen"/>ſure of Mr. <hi>Jaque,</hi> and been an Exile both from his favour and preſence.</p>
+            <p>It pleaſed the Lord about ſix weeks after Dr. <hi>Jaque</hi> came to <hi>Biggar,</hi> to Viſit his dear Wife with a Malignant Fever, (which was at that time very frequent thro' out the Country,) of which ſhe died the Eleventh day, to the great greif and Affliction of all concern'd in her, but Eſpeci<g ref="char:EOLhyphen"/>ally of Dr. <hi>Jaque</hi> and her Kinſwoman Mr. <hi>Stones</hi> Daughter: There were no means left unuſ'd for her Recovery, but all proving ineffectual Dr. <hi>Jaque</hi> by her death loſt not only the beſt of Wives, but a conſiderable yearly income which depended on her life; And the Dr. can with bold<g ref="char:EOLhyphen"/>neſs Challenge the whole World to ſay that from the firſt hour of his Marriage to the laſt period of his Wifes life, there ever appear'd the leaſt Symptom of diſcord or unkindneſs, nay all beholders who were con<g ref="char:EOLhyphen"/>verſant with the Dr. and his Wife in the whole time of her Sickneſs, muſt do Dr. <hi>Jaque</hi> the Juſtice to ſay, that Mutual Endearments were con<g ref="char:EOLhyphen"/>tinued between them, without the leaſt Diminution: One particular evidence of which was, that the afternoon before ſhe died, being appre<g ref="char:EOLhyphen"/>henſive that her Change drew nigh ſhe called for Mr. <hi>Jaque</hi> her Fa<g ref="char:EOLhyphen"/>ther in Law, and his whole Family, and after ſhe had declared to him the Aſſurance ſhe had of an Intereſt in Chriſt, ſhe deſir'd that he would draw her laſt Will and Teſtament, which was to make the Dr. her Execu<g ref="char:EOLhyphen"/>tor, and to ſettle all that was her's on him and her Child after his de<g ref="char:EOLhyphen"/>ceaſe. The Affliction that Dr. <hi>Jaque</hi> was under for ſo great a loſs was ſo Apparent that envy it ſelf cannot detract from the Juſſ Praiſe due to him on that account.</p>
+            <p>Mr. <hi>Stones</hi> Daughter was likewiſe under ſo much trouble, for the loſs of ſo near a Kinſwoman, and dear a Freind, and layd it ſo much to heart that it haſtned in all probability her Travaile before the time ſhe reck<g ref="char:EOLhyphen"/>oned
+<pb n="6" facs="tcp:174979:4"/>(having as ſhe declared according to her own count ſix weeks longer to go] ſo that ſhe was brought to bed ſoon after the death of Dr. <hi>Jaques</hi> Wife, it ſo happening that Dr. <hi>Jaque</hi> being called to <hi>Lanerick</hi> ſome time before, on ſome Extraordinary occaſion, was there ſurpriz'd with the newes of Mr. <hi>Stones</hi> Daughter having brought forth a Child in Mr. <hi>Jaques</hi> houſe, where at he was extreamly troubled, both becauſe of the Vexation and Diſquietude it brought to Mr. <hi>Jaque</hi> and his Family: Dr. <hi>Jaque</hi> immediatly on the newes repair'd to <hi>Biggar,</hi> and ſatisfied Mr, <hi>Jaque</hi> ſo far as he was able in the matter; Mr. <hi>Stones</hi> Daughter produced alſo her Certificate to Mr. <hi>Jaque</hi> from the Miniſter who Married her, but Mr. <hi>Jaque</hi> was ſo incenſ'd, both againſt the Dr. and Mr. <hi>Stones</hi> Daughter, for not timeouſly diſcovering her Marriage and being with Child, that he would neither patiently heare, nor yet give Credit, to what could be ſaid for his Satisfaction.</p>
+            <p>And therefore Mr. <hi>Jaque</hi> wrot immediatly to <hi>London,</hi> to Mr. <hi>Stone</hi> the Gentlewomans Father, and had from himſelf a full account, that his Daugh<g ref="char:EOLhyphen"/>ter was unhappily Married to his great Trouble and Greife, to one <hi>Van<g ref="char:EOLhyphen"/>derkiſtee,</hi> together with the other Circumſtances as before related; Mr. <hi>Jaque</hi> likewiſe wrot to Mr. <hi>Burroughs,</hi> his Son in Law [then living at <hi>London</hi> but now in <hi>Kelſoe</hi>] that he ſhould find out this <hi>Vanderkiſtee,</hi> and get an account of the matter from him; this Mr. <hi>Burroughs,</hi> did accor<g ref="char:EOLhyphen"/>ding to direction, and had from <hi>Vanderkiſtees</hi> own mouth the aſſurance, that he was Lawfully Married to Mr. <hi>Stones</hi> Daughter, that he had both Beded and Boarded with her, and could have acceſs to her when he pleaſed, theſe things are evidently to be made appear by Mr. <hi>Stones</hi> and Mr. <hi>Burroughs</hi> their Letters in Anſwer to Mr. <hi>Jaques,</hi> which the Dr. ſup<g ref="char:EOLhyphen"/>poſeth Mr. <hi>Jaque</hi> may ſtill have by him; and the ſame thing Mr. <hi>Bur<g ref="char:EOLhyphen"/>roughs</hi> doth now <hi>viva Voce,</hi> declare to all that ſpeak to him on that ſub<g ref="char:EOLhyphen"/>ject.</p>
+            <p>Mr. <hi>Stones</hi> Daughter being brought to bed in Mr. <hi>Jaques</hi> houſe, ſtayed there (tho' contrary to Mr. <hi>Jaques</hi> inclination, if he could have helped it) till ſhe was ſo far recovered, as to be in a condition to Travaile: Her Father in the mean time, having an account of her condition, both from Mr. <hi>Jaque</hi> and from her ſelf, ſent her a Bill of <hi>Ten pound starling,</hi> payable at ſight by Mr, <hi>Watſon</hi> Merchant in <hi>Edinbuegh,</hi> to defray the neceſſary Charges that ſuch a condition required. The Gentlewoman was no ſoonet able to ſtir about, but M. <hi>Jaque</hi> required her to be gone, and hereupon ſhe went with her Child to <hi>Edinburgh,</hi> and having receiv'd her Money, ſhe return'd to <hi>England:</hi> However being but weak at the time of her de<g ref="char:EOLhyphen"/>parture, ſhe took Mr. <hi>Jaques</hi> auſtere Carriage ill, as did her Father alſo
+<pb n="7" facs="tcp:174979:4"/>and Mother at <hi>London</hi> when they came to hear of it, in that Mr. <hi>Jaque</hi> did not ſhew their Daughter, more Tenderneſs in the time of her neceſ<g ref="char:EOLhyphen"/>ſity; ſo that Mr. <hi>Jaque</hi> hath born the reflections, both of Mr. <hi>Stone</hi> and his Wife for his unkindneſs to their Daughter, and alſo of his Enemies in <hi>Scotland,</hi> for not being more ſevere to her, and on the account of ſuch like Reproaches is his anger more highly aggravated againſt Dr. <hi>Jaque.</hi>
+            </p>
+            <p>This is the plain but true account of that Buſineſs which fell out in Mr. <hi>Jaques</hi> houſe in <hi>Biggar,</hi> which Mr. <hi>Kirkwood</hi> hath endeavoured to aggravate to the Diſrepute and Diſgrace both of Mr. <hi>Jaque</hi> and the Dr. He calls it the famous Buſineſs, that deſerves ſo ſevere a touch, and as he ſaith was accompanied with ſuch dreadfull Circumſtances; but were it, as he malitiouſly would repreſent, and as he induſtriouſly endeavours to pawn it on the Faith of the World, it were a very infamous Buſineſs. Mr. <hi>Kirkwood</hi> hath (its confeſſed) a very peculiar gift of expreſſion, but he is equally unhappy in it as he is in his Rethorick, for an Hyperbole with him is <hi>Instar Ommum;</hi> and for his Logick a man may ſafely adven<g ref="char:EOLhyphen"/>ture to deny the Concluſion, there being no relation between it and the Premiſes, let now the thinking, and unprejudic'd part of the World judg what reaſon Mr. <hi>Kirkwood</hi> hath to abuſe either Mr. <hi>Jaque</hi> or the Dr. on the account of that Buſineſs, or baſely to inſinuate under the diſguiſe of Common Report, that the Child brought forth in Mr. <hi>Jaques</hi> houſe was the Drs. had <hi>Mr. Kirkasood</hi> taken half the pains, to find out the truth of the matter; which he induſtriouly hath done to Print malitious and falſe Calumnies he had undoubtedly been undeceived, and ſav'd himſelf the trouble of inſerting that Paragraph. But poor man! he hath now un<g ref="char:EOLhyphen"/>denyably demonſtrated to the World, the Crazieneſs of his Intellectualls, and given a ſufficient Teſtimony that he hath the Rickets in his under<g ref="char:EOLhyphen"/>ſtanding, and that Rooted Envy, not Poliſh't Reaſon, had the Aſcendant, when he by Scribling undertook to aſperſe, and if poſſible to leſſon the Authority, and Reproachfully to Ridicule the Diſcipline of this Antient and Renowned Church, which for it's great knowledge in Government and Experience in Diſciplne, is preferable to any Reform'd Church abroad, as is confeſt by the Learned of other Nations.</p>
+            <p>
+               <hi>Ex <g ref="char:V">Ʋ</g>ngue Leonem,</hi> (To make <hi>Mr. Kirkwoods</hi> own words militate againſt himſelf) no unbyaſs'd Reader, but may eaſily thro' his whole Pamphlet, diſcover the malignancy of his Spirit, and that it is not par<g ref="char:EOLhyphen"/>ticular Perſons or Judicatures, but the whole Church as now by Law Eſtabliſh't, that he Levells at, and in ſo doing ſtrikes at the higheſt powers of the Nation, who have by their Civil Sanction reſtored the I resbyter<g ref="char:EOLhyphen"/>ian Government of the Church, and committed it to Miniſters of that
+<pb n="8" facs="tcp:174979:5"/>Perſwaſion; And even at the King himſelf, who Honours the Church Judicatures with Honourable Perſons, to ſit with them as His Repreſen<g ref="char:EOLhyphen"/>tatives, and alſo by His moſt Reſpectful Letters, which are Extant in Print, The Honoutable, Pious and Learn'd Nobility and Gentry of this Antient Kingdom, who favour the Church Judicatures, with their pre<g ref="char:EOLhyphen"/>ſence and Aſſiſtance, as Ruling Elders, are not exempt from the ſevere and falſe Cenſures, which <hi>Mr. Kirkwood</hi> caſts on the whole Church, (with which, as he audaciouſly boaſts he contends) of Partiality, Injuſtice, Envy, Malice, Ignorance and Falſehood, and his Impudent Incivility advanceth to ſuch a pitch as to make the whole Church an Herd of Sa<g ref="char:EOLhyphen"/>vage wild Boar's, Styling them the beaſts of <hi>Epheſus:</hi> The Prophaneſs Blaſphemy and Obſcenity, contain'd in <hi>Mr. Rirkwoods</hi> Pamphlet, is ſuch as can't paſs the Obſervation of the diligent Reader, and deſerves a ſevere Animadverſion; His Blaſphemous Parable about the Aſs; His Immodeſt Repreſentation, of things which God and Nature ordain to be kept ſecret, and his Ignomious contempt of the whole Miniſtry, and <hi>Rabſhekah</hi> like railing againſt them, together with his Prophane and Blaſphemous drol<g ref="char:EOLhyphen"/>ling upon Scripture Phraſes, his horrid Aſſertion that he led ſome of the General Aſlembly down to Hell to Tame them, and round about the whole Confines of Eternity, and ſuch like are all ſufficient proof both of the Corruptneſs of his Pen and Heart, it may alſo be remarkt how unworthy the Pamphleteer is of being entertained in common converſe when he is ſo baſe as in Print to Publiſh every ordinary Dialogue, that paſt between him, and thoſe that diſcours'd with him; and that which ſuperlatively aggravats his Impudence is, that he is ſo fooliſh, furious and Inconſiderate, as to ſhelter his monſtrous and menſtruous Brat, under the Noble wings of ſo Vertuous a Counteſs, the Modeſty of whoſe Sex, and Honour of whoſe Quality cannot but induce her to abhore, and with de<g ref="char:EOLhyphen"/>teſtation to Reſent the ſame.</p>
+            <p>Should <hi>Mr. Kirkwood</hi> be let paſs with ſuch Affronts without being Branded with ſome publick mark of Infamy, he would Glory in his ſhame and this Antient Kingdome and Church, which is Applauded and Ho<g ref="char:EOLhyphen"/>noured both by the Voices and Writings of the Learn'd Abroad and of Neighbour Nations, for its Antiquity and Purity, would be greatly re<g ref="char:EOLhyphen"/>flected on. It's not to be doubted but the Venerable Church, will ſuſtain their own Quarrel, and by Anſwering <hi>Mr. Kirkwood</hi>'s Pamphlet, decy<g ref="char:EOLhyphen"/>pher the Authour in his proper Colours. He is indeed the Object of Pitty rather than Envy, and it's to be feared that the old ſaying, <hi>Quos Deus vult perdere, prius Dementat,</hi> will be verified on him.</p>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:174979:5"/>
+            <pb facs="tcp:174979:6"/>
+            <pb facs="tcp:174979:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
